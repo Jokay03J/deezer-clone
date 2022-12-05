@@ -1,0 +1,10 @@
+h2.dashboardtitle__container {
+  color: white;
+  font-family: "Roboto", sans-serif;
+  margin-top: 10px;
+  margin-bottom: 10px;
+
+  &::first-letter {
+    text-transform: uppercase;
+  }
+}

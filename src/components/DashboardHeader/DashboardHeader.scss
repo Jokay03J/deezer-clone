@@ -1,0 +1,8 @@
+h1.dashboard__header {
+  color: white;
+  font-family: "Roboto", sans-serif;
+
+  &::first-letter {
+    text-transform: uppercase;
+  }
+}
